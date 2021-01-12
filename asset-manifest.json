@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/search-pracapp/static/css/main.a29fada7.chunk.css",
+    "main.js": "/search-pracapp/static/js/main.17e0bbb2.chunk.js",
+    "main.js.map": "/search-pracapp/static/js/main.17e0bbb2.chunk.js.map",
+    "runtime-main.js": "/search-pracapp/static/js/runtime-main.f9c54554.js",
+    "runtime-main.js.map": "/search-pracapp/static/js/runtime-main.f9c54554.js.map",
+    "static/js/2.4ae214a8.chunk.js": "/search-pracapp/static/js/2.4ae214a8.chunk.js",
+    "static/js/2.4ae214a8.chunk.js.map": "/search-pracapp/static/js/2.4ae214a8.chunk.js.map",
+    "static/js/3.9fb4beb9.chunk.js": "/search-pracapp/static/js/3.9fb4beb9.chunk.js",
+    "static/js/3.9fb4beb9.chunk.js.map": "/search-pracapp/static/js/3.9fb4beb9.chunk.js.map",
+    "index.html": "/search-pracapp/index.html",
+    "static/css/main.a29fada7.chunk.css.map": "/search-pracapp/static/css/main.a29fada7.chunk.css.map",
+    "static/js/2.4ae214a8.chunk.js.LICENSE.txt": "/search-pracapp/static/js/2.4ae214a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9c54554.js",
+    "static/js/2.4ae214a8.chunk.js",
+    "static/css/main.a29fada7.chunk.css",
+    "static/js/main.17e0bbb2.chunk.js"
+  ]
+}
