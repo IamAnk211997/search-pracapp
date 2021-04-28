@@ -1,3 +1,3 @@
 # search-pracapp
 
-React Demo open : https://github.com/IamAnk211997
+React Demo open : https://iamank211997.github.io/search-pracapp/
